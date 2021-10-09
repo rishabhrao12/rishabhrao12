@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @rishabhrao12
-- 👀 I’m interested in machine learning and app development
-- 🌱 I’m currently learning data science
+- 👀 I’m interested in software development
+- 🌱 I’m currently learning data science, app development
 - 💞️ I’m looking for internships in machine learning
 - 📫 Reach me on my LinkedIn profile @ rishabh-rao-10
 
