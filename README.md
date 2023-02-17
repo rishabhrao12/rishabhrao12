@@ -4,6 +4,8 @@ Apart from my work, I enjoy listening to music 🎧, going to the gym 🏋🏻 a
 
 “Most of the good programmers do programming not because they expect to get paid or get adulation by the public, but because it is fun to program.” — Linus Torvalds
 
+I am currently creating a repository for machine learning encompassing the various topics of machine learning along with projects, assignments and implementations of the concepts using mathematics to help understand the topics from the ground up. After all if your foundation is strong enough, anything is possible.
+
 <!---
 rishabhrao12/rishabhrao12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
